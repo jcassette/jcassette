@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**jcassette/jcassette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm an embedded software developer, mainly for the space industry.
 
-Here are some ideas to get you started:
+🌱 I'm also interested in operating systems, networking and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Some of my projects:
+- https://github.com/freebsd-d1/freebsd-d1
+- https://github.com/jcassette/megasync-appimage
+
+👯 Some projects I've contributed to:
+- https://github.com/openwrt
+- https://github.com/freebsd
+
+🎁 If you like my work, you can offer me a coffee: https://ko-fi.com/jcassette
+
+See you! 🚀
